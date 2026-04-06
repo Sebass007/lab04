@@ -1,3 +1,4 @@
+// Initial project setup
 package com.example.lab04
 
 import android.os.Bundle
