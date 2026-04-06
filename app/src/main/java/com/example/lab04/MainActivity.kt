@@ -155,8 +155,7 @@ fun ExploracionCompletaApp() {
                     modifier = Modifier.fillMaxWidth(),
                     contentAlignment = Alignment.Center
                 ) {
-                    // ⚠️ Si da error, comenta esto
-                    /*
+
                     Image(
                         painter = painterResource(id = R.drawable.logito),
                         contentDescription = "Logo de la App",
@@ -164,7 +163,7 @@ fun ExploracionCompletaApp() {
                             .size(120.dp)
                             .clip(RoundedCornerShape(16.dp))
                     )
-                    */
+
                 }
             }
         }
