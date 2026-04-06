@@ -39,6 +39,11 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     )
 }
 
+@Composable
+fun ComponenteSaludo() {
+    Text(text = "Hola Curso")
+}
+
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
