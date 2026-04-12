@@ -160,7 +160,7 @@ fun ExploracionCompletaApp() {
                         painter = painterResource(id = R.drawable.logito),
                         contentDescription = "Logo de la App",
                         modifier = Modifier
-                            .size(120.dp)
+                            .size(150.dp)
                             .clip(RoundedCornerShape(16.dp))
                     )
 
@@ -189,4 +189,5 @@ fun PreviewPunto7() {
         ExploracionCompletaApp()
     }
 }
+
 
