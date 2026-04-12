@@ -189,3 +189,4 @@ fun PreviewPunto7() {
         ExploracionCompletaApp()
     }
 }
+
