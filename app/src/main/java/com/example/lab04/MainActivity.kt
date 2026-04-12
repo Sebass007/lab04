@@ -46,7 +46,7 @@ fun ExploracionCompletaApp() {
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text("Exploración de Componentes", fontWeight = FontWeight.Bold) },
+                title = { Text("Exploración de Componentes - Master", fontWeight = FontWeight.Bold) },
                 colors = TopAppBarDefaults.topAppBarColors(
                     containerColor = MaterialTheme.colorScheme.primaryContainer,
                     titleContentColor = MaterialTheme.colorScheme.onPrimaryContainer
