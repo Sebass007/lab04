@@ -174,7 +174,7 @@ fun ExploracionCompletaApp() {
 fun SeccionTitulo(titulo: String) {
     Text(
         text = titulo,
-        fontSize = 20.sp,
+        fontSize = 24.sp,
         fontWeight = FontWeight.ExtraBold,
         color = MaterialTheme.colorScheme.primary,
         modifier = Modifier.padding(bottom = 4.dp)
